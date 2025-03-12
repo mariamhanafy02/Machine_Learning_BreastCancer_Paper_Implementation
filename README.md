@@ -1,0 +1,1 @@
+##### Implemented a machine learning based paper about breast cancer. going through all steps of building a machine learning model, starting from data pre-proccesing till Evaluation of models performance. the used models are KNN, decision tree, Random forest, logistic regression.
